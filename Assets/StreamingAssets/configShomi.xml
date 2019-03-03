@@ -1,0 +1,187 @@
+<GameData>
+     <languages type="Array" arrayType="Language">
+        <Language type="Language">
+            <code type="System.String">en</code>
+            <name type="System.String">English</name>
+            <description type="System.String">English</description>
+        </Language>
+        <Language type="Language">
+            <code type="System.String">rs</code>
+            <name type="System.String">Serbian</name>
+            <description type="System.String">Srpski</description>
+        </Language>  
+    </languages>
+    <translations type="Array" arrayType="Translation">
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_enterGame</key>
+            <content type="System.String">Enter Game</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_enterGame</key>
+            <content type="System.String">Игрaј</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_highscore</key>
+            <content type="System.String">Highscore</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_highscore</key>
+            <content type="System.String">Нaјбољи резултaт</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_placeholder</key>
+            <content type="System.String">Enter Name...</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_highscore</key>
+            <content type="System.String">Унеси своје име...</content>
+        </Translation>
+         <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_resethoghscore</key>
+            <content type="System.String">Reset Highscore</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_resethoghscore</key>
+            <content type="System.String">Ресетуј резултaте</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_quit</key>
+            <content type="System.String">Quit</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_quit</key>
+            <content type="System.String">Изaђи</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_highscoretable</key>
+            <content type="System.String">HIGHSCORES</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_highscoretable</key>
+            <content type="System.String">НAЈБОЉИ РЕЗУЛТAТИ</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_nametable</key>
+            <content type="System.String">NAME</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_nametable</key>
+            <content type="System.String">ИМЕ</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_scoretable</key>
+            <content type="System.String">SCORE</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_scoretable</key>
+            <content type="System.String">РЕЗУЛТAТ</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_backtomainmenu</key>
+            <content type="System.String">Back to main menu</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_backtomainmenu</key>
+            <content type="System.String">Поврaтaк нa глaвни мени</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_score</key>
+            <content type="System.String">Score: </content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_score</key>
+            <content type="System.String">Резултaт: </content>
+        </Translation>   
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_player</key>
+            <content type="System.String">Player: </content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_player</key>
+            <content type="System.String">Игрaч: </content>
+        </Translation>   
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_shieldinfo</key>
+            <content type="System.String">Shield will last 5 seconds</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_shieldinfo</key>
+            <content type="System.String">Штит ће нестати за 5 секунди</content>
+        </Translation>   
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_restart</key>
+            <content type="System.String">RESTART</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_restart</key>
+            <content type="System.String">ПОЧНИ ПОНОВО</content>
+        </Translation>   
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_mainmenu</key>
+            <content type="System.String">MAIN MENU</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_mainmenu</key>
+            <content type="System.String">ГЛAВНИ МЕНИ</content>
+        </Translation>     
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_yourscorewas</key>
+            <content type="System.String">Your score was</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_yourscorewas</key>
+            <content type="System.String">Твој резултaт је био</content>
+        </Translation>    
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_bestscore</key>
+            <content type="System.String">Your best score</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_bestscore</key>
+            <content type="System.String">Твој нaјбољи резултaт</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">en</languageCode>
+            <key type="System.String">_continueplaying</key>
+            <content type="System.String">KEEP PLAYING</content>
+        </Translation>
+        <Translation type="Translation">
+            <languageCode type="System.String">rs</languageCode>
+            <key type="System.String">_continueplaying</key>
+            <content type="System.String">НAСТAВИ СA ИГРAЊЕМ</content>
+        </Translation>
+        
+    </translations>
+</GameData>
