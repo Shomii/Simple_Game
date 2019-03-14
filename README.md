@@ -1,7 +1,7 @@
 # Simple_Game
 is the 2D game developed in game engine Unity using programming language C#
 
-https://github.com/Shomii/UnityBuilds/releases
+https://github.com/Shomii/Simple_Game/releases
 
 https://youtu.be/1I59y32iw1M
 
